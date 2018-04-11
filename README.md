@@ -14,3 +14,5 @@ Folder "R" contains R-scripts to do all kinetic modelling (requires the R-packag
 Folder "Results" contains Figure 1 in pdf format and Table 1 in excel format. 
 
 Folder "Preprint" contains the article preprint also uploaded to BioRxiv. The current version might differ from that on BioRxiv. 
+
+Issues are turned of since this repo is meant for storage in not active. 
